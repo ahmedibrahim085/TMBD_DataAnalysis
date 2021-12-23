@@ -1,6 +1,8 @@
 # Project: Investigate The TMBD Dataset
 This Repo is part of Udacity Data Analysis Nano Degree - Project 2
 
+Please don't just copy past the code.
+
 
 ## Table of Contents
 <ul>
